@@ -1,5 +1,5 @@
 # LinkedStack
 using LinkedList to create Stack
 
-using LinkedList to create Stack is just like add a new node at the front of the LinkedList
+using LinkedList to create Stack is /b/just like add a new node at the front of the LinkedList/b/
 :smirk:
